@@ -1,1 +1,1 @@
-![Captura de tela 2024-05-22 212134](https://github.com/Felipeoliveirasouza/ping-pong/assets/153692420/285870d5-767f-4f89-a57c-04266ef42a4d)
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Felipeoliveirasouza/ping-pong/assets/153692420/c59cf26c-7f1a-4d61-a066-18e9d6552579)
