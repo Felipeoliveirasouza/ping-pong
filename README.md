@@ -4,4 +4,4 @@
 </div>
 <p>Bem-vindo ao Ping Pong Game! Este é um jogo simples de ping pong desenvolvido em JavaScript. É um projeto divertido e educacional para quem quer aprender mais sobre desenvolvimento de jogos ou aprimorar suas habilidades de programação.</p>
 <h2>Como Jogar?</h2>
-<p>Utilize o mouse para controlar sua raquete, a cada ponto marcado a velocidade da bolinha vai almentando</p>
+<p>Utilize o mouse para controlar sua raquete, a cada ponto marcado a velocidade da bolinha vai aumentando.</p>
