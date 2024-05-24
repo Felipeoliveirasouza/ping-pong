@@ -6,4 +6,4 @@
 <h2>Como Jogar?</h2>
 <p>Utilize o mouse para controlar sua raquete, a cada ponto marcado a velocidade da bolinha vai aumentando.</p>
 <h2>Onde posso jogar?</h2>
-<p>No seu PC, entre no Link: https://felipeoliveirasouza.github.io/ping-pong/</p>
+<p target="_blank">No seu PC, entre no Link: https://felipeoliveirasouza.github.io/ping-pong/</p>
